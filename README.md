@@ -1,0 +1,2 @@
+# Extrategia
+Panel para Extrategia
